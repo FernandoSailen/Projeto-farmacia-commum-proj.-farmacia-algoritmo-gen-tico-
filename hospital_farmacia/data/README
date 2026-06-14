@@ -1,0 +1,7 @@
+arquivos em json estão ai só para servir de banco de dadso eles seguem uma ética de escrita bem simples e o código consegue ler
+
+git:
+
+git add .
+git commit -m "Descrição da alteração"
+git push
